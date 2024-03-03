@@ -1,7 +1,10 @@
 <img src="https://github.com/quocthangit247/quocthangit247/assets/25447620/dad4310c-9cb0-49ee-bc32-65755692e5c7" alt="my banner">
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻!
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=quocthangit247&label=Profile%20views&color=0e75b6&style=flat" alt="quocthangit247" /> </span>
+  
 </h2> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quocthangit247&theme=onedark" alt="quocthangit247" /></a> </p>
 
 
 ## 🔭 I'm currently working on
@@ -99,21 +102,7 @@ I'm a Full-Stack Web Developer 💻!
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats 
+<span  align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=quocthangit247&theme=onedark" alt="quocthangit247" /></span>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quocthangit247&theme=one_dark_pro&show_icons=true&rank_icon=github)](https://github.com/quocthangit247)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quocthangit247&theme=one_dark_pro&show_icons=true&rank_icon=github&hide=contribs)](https://github.com/quocthangit247)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocthangit247&layout=compact&theme=one_dark_pro&show_icons=true)](https://github.com/quocthangit247)
-
-<!--
-**quocthangit247/quocthangit247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
