@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://github.com/quocthangit247/quocthangit247/assets/25447620/dad4310c-9cb0-49ee-bc32-65755692e5c7" alt="my banner">
 <!--
 **quocthangit247/quocthangit247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
