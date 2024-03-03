@@ -100,9 +100,8 @@ I'm a Full-Stack Web Developer 💻!
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quocthangit247)](https://github.com/quocthangit247)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocthangit247&layout=compact)](https://github.com/quocthangit247)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quocthangit247&theme=one_dark_pro&show_icons=true&rank_icon=github)](https://github.com/quocthangit247)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocthangit247&layout=compact&theme=one_dark_pro&show_icons=true)](https://github.com/quocthangit247)
 
 <!--
 **quocthangit247/quocthangit247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
